@@ -26,7 +26,7 @@ $ git https://github.com/breatheco-de/excercise-terminal-challenge.git
 
 #### 1) Install the packages.
 
-```sh
+```shsgawerehadesr
 $ npm install
 ```
 
